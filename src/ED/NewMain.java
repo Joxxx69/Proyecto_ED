@@ -7,6 +7,8 @@ public class NewMain {
         // TODO code application logic here
         System.out.print("hola");
         System.out.println("mundo");
+        
+        
     }
     
 }
